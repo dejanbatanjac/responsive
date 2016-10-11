@@ -1,2 +1,2 @@
 # responsive
-WordPress plugin ot make your theme responsive
+WordPress plugin to make your theme responsive
